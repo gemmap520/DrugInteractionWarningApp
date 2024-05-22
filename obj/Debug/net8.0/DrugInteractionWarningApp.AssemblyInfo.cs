@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrugInteractionWarningApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78f9d9c9499d59bf7d0b3f49315cba0d8bf91c3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrugInteractionWarningApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrugInteractionWarningApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
