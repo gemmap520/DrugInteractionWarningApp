@@ -20,6 +20,6 @@ This application predicts negative interactions between drugs using a machine le
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/gemmap520/DrugInteractionWarningApp.git>
    cd DrugInteractionWarningApp
 
