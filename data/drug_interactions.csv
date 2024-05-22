@@ -1,0 +1,11 @@
+DrugName,InteractionDrug,InteractionDescription
+Aspirin,Warfarin,Increased risk of bleeding
+Ibuprofen,Aspirin,Reduced effectiveness of aspirin
+Lisinopril,Ibuprofen,Reduced blood pressure lowering effect of lisinopril
+Metformin,Insulin,Increased risk of hypoglycemia
+Amoxicillin,Probenecid,Increased levels of amoxicillin
+Simvastatin,Grapefruit,Increased risk of simvastatin side effects
+Omeprazole,Clopidogrel,Reduced effectiveness of clopidogrel
+Warfarin,Vitamin K,Reduced effectiveness of warfarin
+Alprazolam,Alcohol,Increased drowsiness and dizziness
+Furosemide,Digoxin,Increased risk of digoxin toxicity
