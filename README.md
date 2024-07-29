@@ -6,19 +6,33 @@ This application predicts negative interactions between drugs using a machine le
 
 DrugInteractionWarningApp/
 ├── .vscode/                          # Visual Studio Code configuration files
+
 │   ├── settings.json                 # Project-specific settings
+
 │   └── launch.json                   # Launch configurations for debugging
+
 ├── bin/                              # Compiled binaries and executables
+
 │   └── Debug/                        # Debug configuration output
+
 │       └── net6.0/                   # Output for .NET 6.0
+
 ├── data/                             # Directory containing datasets
+
 │   └── DDI_data.csv                  # The dataset used for training the model
+
 ├── obj/                              # Object files and intermediate build artifacts
+
 │   ├── Debug/                        # Debug configuration intermediates
+
 │   └── project.assets.json           # Project assets file
+
 ├── .gitignore                        # Specifies intentionally untracked files to ignore
+
 ├── DrugInteractionWarningApp.csproj  # .NET project file with build configurations and dependencies
+
 ├── Program.cs                        # Main application code file
+
 └── drug_interaction_model.zip        # Trained ML.NET model saved as a zip file
 
 ## Prerequisites
